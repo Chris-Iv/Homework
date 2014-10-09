@@ -1,0 +1,5 @@
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe.config
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.pdb
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.exe
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.pdb

@@ -1,0 +1,119 @@
+.box {
+	border-left: 7px dashed red;
+	border-top: 7px dotted yellow;
+	border-right: 13px solid green;
+	border-bottom: 7px double blue;
+	width: 700px;
+	height: 230px;
+	box-shadow: 20px 20px 7px #333333;
+}
+h1 {
+	margin-top: 10px;
+	text-align: center;
+	font-weight: normal;
+	font-size: 45px;
+	text-shadow: 10px 10px 10px #404040;
+}
+.oval {
+	width: 550px;
+	height: 110px;
+	border-radius: 75px;
+	box-shadow:
+        0 0 0 2px red,
+        0 0 0 3px yellow,
+        0 0 0 5px green,
+        0 0 0 7px blue;
+	margin-left: 75px;
+	padding-top: 0.5px;
+}
+h2 {
+	text-align: center;
+	font-weight: normal;
+	text-shadow: 5px 5px 10px #404040;
+}
+form {
+	text-align: center;
+}
+.button {
+	text-align: center;
+	font-size: 15px;
+	color: black;
+	font-weight: bold;
+	background-color: #D8921A;
+	padding: 2px 10px;
+	margin-right: 5px;
+	border-top: 3px solid #EC9C0D;
+	border-left: 3px solid #EC9C0D;
+	border-right: 3px solid #AD7206;
+	border-bottom: 3px solid #AD7206;
+}
+.small-bubble {
+	background: rgba(104,104,104,0.7);
+	width: 25px;
+	height: 25px;
+	border: 4px dashed rgba(104,104,104,0.1);
+	border-radius: 50%;
+	position: relative;
+	top: -100px;
+	left: 530px;
+}
+.medium-bubble {
+	background: rgba(104,104,104,0.7);
+	width: 40px;
+	height: 40px;
+	border: 4px dashed rgba(104,104,104,0.1);
+	border-radius: 50%;
+	position: relative;
+	top: -185px;
+	left: 570px;
+}
+.small-bubble:before {
+	content: " ";
+	border: 4px dashed white;
+	border-radius: 50%;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+}
+.medium-bubble:before {
+	content: " ";
+	border: 4px dashed white;
+	border-radius: 50%;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+}
+.large-bubble {
+	background: rgba(104,104,104,0.7);
+	width: 100px;
+	height: 60px;
+	border: 4px dashed rgba(104,104,104,0.1);
+	border-radius: 40%;
+	position: relative;
+	top: -290px;
+	left: 635px;
+	padding-top: 10px;
+}
+.large-bubble:before {
+	content: " ";
+	border: 4px dashed white;
+	border-radius: 40%;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+}
+.text {
+	position:absolute;
+	color: white;
+	text-align: center;
+	width: 90px;
+	font-weight: bold;
+	top: 60px;
+	left: 650px;
+}

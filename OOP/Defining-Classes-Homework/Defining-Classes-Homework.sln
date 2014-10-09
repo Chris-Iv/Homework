@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Persons", "01.Persons\01.Persons.csproj", "{796BB76A-8BE9-4D81-8E7E-CF593281BA88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.LaptopShop", "2.LaptopShop\02.LaptopShop.csproj", "{DA83E082-C6A8-48DB-BD0A-B0A6B2212264}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. PCCatalog", "03. PCCatalog\03. PCCatalog.csproj", "{DEAA4AAC-F33F-44D0-98CE-91E3C395EC61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{796BB76A-8BE9-4D81-8E7E-CF593281BA88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{796BB76A-8BE9-4D81-8E7E-CF593281BA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{796BB76A-8BE9-4D81-8E7E-CF593281BA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{796BB76A-8BE9-4D81-8E7E-CF593281BA88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA83E082-C6A8-48DB-BD0A-B0A6B2212264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA83E082-C6A8-48DB-BD0A-B0A6B2212264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA83E082-C6A8-48DB-BD0A-B0A6B2212264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA83E082-C6A8-48DB-BD0A-B0A6B2212264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEAA4AAC-F33F-44D0-98CE-91E3C395EC61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEAA4AAC-F33F-44D0-98CE-91E3C395EC61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEAA4AAC-F33F-44D0-98CE-91E3C395EC61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEAA4AAC-F33F-44D0-98CE-91E3C395EC61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

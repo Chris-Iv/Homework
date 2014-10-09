@@ -1,0 +1,6 @@
+c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\07.Calculate3\bin\Debug\07.Calculate3.exe.config
+c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\07.Calculate3\bin\Debug\07.Calculate3.exe
+c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\07.Calculate3\bin\Debug\07.Calculate3.pdb
+c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\07.Calculate3\obj\Debug\07.Calculate3.csprojResolveAssemblyReference.cache
+c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\07.Calculate3\obj\Debug\07.Calculate3.exe
+c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\07.Calculate3\obj\Debug\07.Calculate3.pdb

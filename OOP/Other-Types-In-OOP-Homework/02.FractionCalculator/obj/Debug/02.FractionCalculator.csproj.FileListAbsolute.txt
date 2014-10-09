@@ -1,0 +1,6 @@
+c:\users\hores\documents\visual studio 2012\Projects\Other-Types-In-OOP-Homework\02.FractionCalculator\bin\Debug\02.FractionCalculator.exe.config
+c:\users\hores\documents\visual studio 2012\Projects\Other-Types-In-OOP-Homework\02.FractionCalculator\bin\Debug\02.FractionCalculator.exe
+c:\users\hores\documents\visual studio 2012\Projects\Other-Types-In-OOP-Homework\02.FractionCalculator\bin\Debug\02.FractionCalculator.pdb
+c:\users\hores\documents\visual studio 2012\Projects\Other-Types-In-OOP-Homework\02.FractionCalculator\obj\Debug\02.FractionCalculator.csprojResolveAssemblyReference.cache
+c:\users\hores\documents\visual studio 2012\Projects\Other-Types-In-OOP-Homework\02.FractionCalculator\obj\Debug\02.FractionCalculator.exe
+c:\users\hores\documents\visual studio 2012\Projects\Other-Types-In-OOP-Homework\02.FractionCalculator\obj\Debug\02.FractionCalculator.pdb

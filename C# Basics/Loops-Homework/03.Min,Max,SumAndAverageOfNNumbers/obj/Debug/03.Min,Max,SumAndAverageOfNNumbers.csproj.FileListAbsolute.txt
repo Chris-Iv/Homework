@@ -1,0 +1,6 @@
+c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\03.Min,Max,SumAndAverageOfNNumbers\bin\Debug\03.Min,Max,SumAndAverageOfNNumbers.exe.config
+c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\03.Min,Max,SumAndAverageOfNNumbers\bin\Debug\03.Min,Max,SumAndAverageOfNNumbers.exe
+c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\03.Min,Max,SumAndAverageOfNNumbers\bin\Debug\03.Min,Max,SumAndAverageOfNNumbers.pdb
+c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\03.Min,Max,SumAndAverageOfNNumbers\obj\Debug\03.Min,Max,SumAndAverageOfNNumbers.csprojResolveAssemblyReference.cache
+c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\03.Min,Max,SumAndAverageOfNNumbers\obj\Debug\03.Min,Max,SumAndAverageOfNNumbers.exe
+c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\03.Min,Max,SumAndAverageOfNNumbers\obj\Debug\03.Min,Max,SumAndAverageOfNNumbers.pdb

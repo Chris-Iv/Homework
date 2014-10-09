@@ -1,0 +1,6 @@
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Console-Input-Output-Homework\01.SumOf3Integers\bin\Debug\01.SumOf3Integers.exe.config
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Console-Input-Output-Homework\01.SumOf3Integers\bin\Debug\01.SumOf3Integers.exe
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Console-Input-Output-Homework\01.SumOf3Integers\bin\Debug\01.SumOf3Integers.pdb
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Console-Input-Output-Homework\01.SumOf3Integers\obj\Debug\01.SumOf3Integers.csprojResolveAssemblyReference.cache
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Console-Input-Output-Homework\01.SumOf3Integers\obj\Debug\01.SumOf3Integers.exe
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Console-Input-Output-Homework\01.SumOf3Integers\obj\Debug\01.SumOf3Integers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework\BankAccountData\bin\Debug\BankAccountData.exe.config
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework\BankAccountData\bin\Debug\BankAccountData.exe
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework\BankAccountData\bin\Debug\BankAccountData.pdb
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework\BankAccountData\obj\Debug\BankAccountData.csprojResolveAssemblyReference.cache
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework\BankAccountData\obj\Debug\BankAccountData.exe
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework\BankAccountData\obj\Debug\BankAccountData.pdb

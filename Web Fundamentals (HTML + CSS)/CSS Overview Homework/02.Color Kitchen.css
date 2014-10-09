@@ -1,0 +1,137 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body {
+	background-image: url("colorful_dots_on_black.jpg");
+}
+body > header {
+	font-size: 25px;
+	text-align: center;
+	color: yellow;
+	font-weight: bold;
+	height: 40px;
+	background: linear-gradient(to right, red, red 33.3%, green 33.3%, green 67.7%, blue 67.7%);
+}
+nav {
+	background: rgba(255, 255, 255, 0.9);
+	border-radius: 10px;
+	width: 15%;
+	margin-top: 10px;
+	margin-left: 15px;
+}
+nav header {
+	text-decoration: underline;
+	margin-top: 10px;
+	margin-left: 10px;
+	font-weight: bold;
+	font-size: 20px;
+	padding-top: 10px;
+}
+nav ul {
+	margin-top: 15px;
+	list-style-type: none;
+	list-style-image: url("icon.png");
+	padding-left: 10px;
+}
+nav ul li {
+	line-height: 25px;
+	list-style-position: inside;
+}
+nav ul li a {
+	text-decoration: none;
+	color: black;
+}
+nav ul a:visited {
+	color: grey;
+}
+nav ul li:nth-child(1):hover {
+	background: red;
+	width: 90%;
+	border-radius: 5px;
+}
+nav ul li:nth-child(2):hover {
+	background: orange;
+	width: 90%;
+	border-radius: 5px;
+}
+nav ul li:nth-child(3):hover {
+	background: yellow;
+	width: 90%;
+	border-radius: 5px;
+}
+nav ul li:nth-child(4):hover {
+	background: green;
+	width: 90%;
+	border-radius: 5px;
+}
+nav ul li:nth-child(5):hover {
+	background: blue;
+	width: 90%;
+	border-radius: 5px;
+}
+nav ul li:nth-child(6):hover {
+	background: purple;
+	width: 90%;
+	border-radius: 5px;
+}
+article {
+	background: rgba(255, 255, 255, 0.9);
+	border-radius: 10px;
+	width: 60%;
+	padding: 10px;
+	margin-left: 18%;
+	margin-bottom: 10px;
+}
+article:nth-child(1) {
+	margin-top: -250px;
+}
+#webColors {
+	background: red;
+	color: white;
+}
+#webSafeColors {
+	background: orange;
+}
+#RGB {
+	background: yellow;
+}
+#RGBA {
+	background: green;
+	color: white;
+}
+#\#HSLHSV {
+	background: blue;
+	color: white;
+}
+#\#lorem {
+	background: purple;
+	color: white;
+}
+article header {
+	height: 30px;
+	border-radius: 5px;
+	padding-left: 5px;
+	padding-top: 5px;
+	padding-bottom: 30px;
+	font-size: 1.2em;
+	margin-bottom: 10px;
+}
+footer a {
+	color: grey;
+	font-style: italic;
+}
+article div:first-line {
+	font-style: italic;
+}
+article div:first-letter {
+	font-size: 3em;
+}
+span:lang(la) {
+	font-style: italic;
+	color: darkblue;
+}
+span:lang(la):before, span:lang(la):after {
+	content: "\"";
+}

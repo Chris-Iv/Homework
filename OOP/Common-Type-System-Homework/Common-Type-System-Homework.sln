@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customer", "Customer\Customer.csproj", "{E053AA96-CC71-49D9-87FF-9F403AE60976}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringDisperser", "StringDisperser\StringDisperser.csproj", "{35BD5A81-5813-42C2-8FC9-8CDC98D0BF9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E053AA96-CC71-49D9-87FF-9F403AE60976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E053AA96-CC71-49D9-87FF-9F403AE60976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E053AA96-CC71-49D9-87FF-9F403AE60976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E053AA96-CC71-49D9-87FF-9F403AE60976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35BD5A81-5813-42C2-8FC9-8CDC98D0BF9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35BD5A81-5813-42C2-8FC9-8CDC98D0BF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35BD5A81-5813-42C2-8FC9-8CDC98D0BF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35BD5A81-5813-42C2-8FC9-8CDC98D0BF9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

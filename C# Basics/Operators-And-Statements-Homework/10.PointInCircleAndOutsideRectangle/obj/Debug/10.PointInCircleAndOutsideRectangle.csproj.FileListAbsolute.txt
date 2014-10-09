@@ -1,0 +1,5 @@
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\10.PointInCircleAndOutsideRectangle\bin\Debug\10.PointInCircleAndOutsideRectangle.exe.config
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\10.PointInCircleAndOutsideRectangle\bin\Debug\10.PointInCircleAndOutsideRectangle.exe
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\10.PointInCircleAndOutsideRectangle\bin\Debug\10.PointInCircleAndOutsideRectangle.pdb
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\10.PointInCircleAndOutsideRectangle\obj\Debug\10.PointInCircleAndOutsideRectangle.exe
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\10.PointInCircleAndOutsideRectangle\obj\Debug\10.PointInCircleAndOutsideRectangle.pdb

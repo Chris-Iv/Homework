@@ -1,0 +1,6 @@
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework\EmployeeData\bin\Debug\EmployeeData.exe
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework\EmployeeData\bin\Debug\EmployeeData.pdb
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework\EmployeeData\obj\Debug\EmployeeData.exe
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework\EmployeeData\obj\Debug\EmployeeData.pdb
+C:\Users\Hores\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework\EmployeeData\obj\Debug\EmployeeData.csprojResolveAssemblyReference.cache

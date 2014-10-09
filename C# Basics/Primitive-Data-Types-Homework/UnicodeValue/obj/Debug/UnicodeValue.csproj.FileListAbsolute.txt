@@ -1,0 +1,5 @@
+c:\users\hores\documents\visual studio 2012\Projects\Primitive-Data-Types-Homework\UnicodeValue\bin\Debug\UnicodeValue.exe.config
+c:\users\hores\documents\visual studio 2012\Projects\Primitive-Data-Types-Homework\UnicodeValue\bin\Debug\UnicodeValue.exe
+c:\users\hores\documents\visual studio 2012\Projects\Primitive-Data-Types-Homework\UnicodeValue\bin\Debug\UnicodeValue.pdb
+c:\users\hores\documents\visual studio 2012\Projects\Primitive-Data-Types-Homework\UnicodeValue\obj\Debug\UnicodeValue.exe
+c:\users\hores\documents\visual studio 2012\Projects\Primitive-Data-Types-Homework\UnicodeValue\obj\Debug\UnicodeValue.pdb
