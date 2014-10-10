@@ -4,7 +4,7 @@ import java.awt.Graphics;
 
 
 @SuppressWarnings("serial")
-public class Player extends Canvas implements Runnable {
+public class Game extends Canvas implements Runnable {
 		public static Snake snake;
 		public static Apple apple;
 		static int score;
@@ -14,7 +14,10 @@ public class Player extends Canvas implements Runnable {
 		public static final int HEIGHT = 600;
 		private final Dimension dimension = new Dimension(WIDTH, HEIGHT);
 		static boolean gameRunning = false;
-		
+			
+		/**
+		* Paint game's board.
+		*/
 		public void paint(Graphics g){
 				this.setPreferredSize(dimension);
 				globalGraphics = g.create();
@@ -26,6 +29,9 @@ public class Player extends Canvas implements Runnable {
 				}
 		}
 		
+		/**
+		* Run game.
+		*/
 		public void run(){
 				while(gameRunning){
 						snake.tick();
@@ -43,6 +49,10 @@ public class Player extends Canvas implements Runnable {
 				apple = new Apple(snake);
 		}
 		
+		/**
+		* Draws all objects in the game.
+		* @param g object of class Graphics.
+		*/
 		public void render(Graphics g){
 				g.clearRect(0, 0, WIDTH, HEIGHT + 25);
 				g.drawRect(0, 0, WIDTH, HEIGHT);	

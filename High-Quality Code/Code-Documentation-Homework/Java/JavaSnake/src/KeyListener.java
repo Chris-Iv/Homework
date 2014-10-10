@@ -2,11 +2,20 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
 
-public class KeyCapturer implements KeyListener{
-		public KeyCapturer(Player game){
+public class KeyListener implements KeyListener{
+
+		/**
+		* Create a object of class EventKeyListener.
+		* @param game Object of class Game.
+		*/
+		public KeyListener(Player game){
 				game.addKeyListener(this);
 		}
 		
+		/**
+		* Handles pressed key.
+		* @param e object of class KeyEvent.
+		*/
 		public void keyPressed(KeyEvent e) {
 				int keyCode = e.getKeyCode();
 				if (keyCode == KeyEvent.VK_W || keyCode == KeyEvent.VK_UP) {
