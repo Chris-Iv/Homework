@@ -1,6 +1,0 @@
-c:\users\hores\documents\visual studio 2012\Projects\Conditional-Statements-Homework\06.TheBiggersOf5Numbers\bin\Debug\06.TheBiggersOf5Numbers.exe.config
-c:\users\hores\documents\visual studio 2012\Projects\Conditional-Statements-Homework\06.TheBiggersOf5Numbers\bin\Debug\06.TheBiggersOf5Numbers.exe
-c:\users\hores\documents\visual studio 2012\Projects\Conditional-Statements-Homework\06.TheBiggersOf5Numbers\bin\Debug\06.TheBiggersOf5Numbers.pdb
-c:\users\hores\documents\visual studio 2012\Projects\Conditional-Statements-Homework\06.TheBiggersOf5Numbers\obj\Debug\06.TheBiggersOf5Numbers.csprojResolveAssemblyReference.cache
-c:\users\hores\documents\visual studio 2012\Projects\Conditional-Statements-Homework\06.TheBiggersOf5Numbers\obj\Debug\06.TheBiggersOf5Numbers.exe
-c:\users\hores\documents\visual studio 2012\Projects\Conditional-Statements-Homework\06.TheBiggersOf5Numbers\obj\Debug\06.TheBiggersOf5Numbers.pdb

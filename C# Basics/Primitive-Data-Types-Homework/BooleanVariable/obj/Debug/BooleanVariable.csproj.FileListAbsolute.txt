@@ -1,6 +1,0 @@
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework\BooleanVariable\bin\Debug\BooleanVariable.exe.config
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework\BooleanVariable\bin\Debug\BooleanVariable.exe
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework\BooleanVariable\bin\Debug\BooleanVariable.pdb
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework\BooleanVariable\obj\Debug\BooleanVariable.csprojResolveAssemblyReference.cache
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework\BooleanVariable\obj\Debug\BooleanVariable.exe
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework\BooleanVariable\obj\Debug\BooleanVariable.pdb

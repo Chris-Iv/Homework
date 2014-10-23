@@ -1,6 +1,0 @@
-c:\users\hores\documents\visual studio 2012\Projects\Defining-Classes-Homework\2.LaptopShop\bin\Debug\2.LaptopShop.exe.config
-c:\users\hores\documents\visual studio 2012\Projects\Defining-Classes-Homework\2.LaptopShop\bin\Debug\2.LaptopShop.exe
-c:\users\hores\documents\visual studio 2012\Projects\Defining-Classes-Homework\2.LaptopShop\bin\Debug\2.LaptopShop.pdb
-c:\users\hores\documents\visual studio 2012\Projects\Defining-Classes-Homework\2.LaptopShop\obj\Debug\02.LaptopShop.csprojResolveAssemblyReference.cache
-c:\users\hores\documents\visual studio 2012\Projects\Defining-Classes-Homework\2.LaptopShop\obj\Debug\2.LaptopShop.exe
-c:\users\hores\documents\visual studio 2012\Projects\Defining-Classes-Homework\2.LaptopShop\obj\Debug\2.LaptopShop.pdb

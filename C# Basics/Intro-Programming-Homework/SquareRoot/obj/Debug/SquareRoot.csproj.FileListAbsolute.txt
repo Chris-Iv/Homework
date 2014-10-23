@@ -1,5 +1,0 @@
-c:\users\hores\documents\visual studio 2012\Projects\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.exe.config
-c:\users\hores\documents\visual studio 2012\Projects\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.exe
-c:\users\hores\documents\visual studio 2012\Projects\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.pdb
-c:\users\hores\documents\visual studio 2012\Projects\Intro-Programming-Homework\SquareRoot\obj\Debug\SquareRoot.exe
-c:\users\hores\documents\visual studio 2012\Projects\Intro-Programming-Homework\SquareRoot\obj\Debug\SquareRoot.pdb

@@ -1,6 +1,0 @@
-c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe.config
-c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.csprojResolveAssemblyReference.cache
-c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe
-c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.pdb
-c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.exe
-c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.pdb

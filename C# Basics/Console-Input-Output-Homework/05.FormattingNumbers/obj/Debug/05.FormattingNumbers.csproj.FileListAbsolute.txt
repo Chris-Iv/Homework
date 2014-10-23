@@ -1,6 +1,0 @@
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Console-Input-Output-Homework\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe.config
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Console-Input-Output-Homework\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Console-Input-Output-Homework\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.pdb
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Console-Input-Output-Homework\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.csprojResolveAssemblyReference.cache
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Console-Input-Output-Homework\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.exe
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Console-Input-Output-Homework\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.pdb

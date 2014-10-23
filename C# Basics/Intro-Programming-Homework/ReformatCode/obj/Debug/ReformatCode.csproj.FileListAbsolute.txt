@@ -1,6 +1,0 @@
-c:\users\hores\documents\visual studio 2012\Projects\Intro-Programming-Homework\ReformatCode\bin\Debug\ReformatCode.exe.config
-c:\users\hores\documents\visual studio 2012\Projects\Intro-Programming-Homework\ReformatCode\bin\Debug\ReformatCode.exe
-c:\users\hores\documents\visual studio 2012\Projects\Intro-Programming-Homework\ReformatCode\bin\Debug\ReformatCode.pdb
-c:\users\hores\documents\visual studio 2012\Projects\Intro-Programming-Homework\ReformatCode\obj\Debug\ReformatCode.csprojResolveAssemblyReference.cache
-c:\users\hores\documents\visual studio 2012\Projects\Intro-Programming-Homework\ReformatCode\obj\Debug\ReformatCode.exe
-c:\users\hores\documents\visual studio 2012\Projects\Intro-Programming-Homework\ReformatCode\obj\Debug\ReformatCode.pdb

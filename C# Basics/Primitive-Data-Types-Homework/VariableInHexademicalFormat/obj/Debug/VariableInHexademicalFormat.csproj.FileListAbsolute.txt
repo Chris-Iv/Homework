@@ -1,5 +1,0 @@
-c:\users\hores\documents\visual studio 2012\Projects\Primitive-Data-Types-Homework\VariableInHexademicalFormat\bin\Debug\VariableInHexademicalFormat.exe.config
-c:\users\hores\documents\visual studio 2012\Projects\Primitive-Data-Types-Homework\VariableInHexademicalFormat\bin\Debug\VariableInHexademicalFormat.exe
-c:\users\hores\documents\visual studio 2012\Projects\Primitive-Data-Types-Homework\VariableInHexademicalFormat\bin\Debug\VariableInHexademicalFormat.pdb
-c:\users\hores\documents\visual studio 2012\Projects\Primitive-Data-Types-Homework\VariableInHexademicalFormat\obj\Debug\VariableInHexademicalFormat.exe
-c:\users\hores\documents\visual studio 2012\Projects\Primitive-Data-Types-Homework\VariableInHexademicalFormat\obj\Debug\VariableInHexademicalFormat.pdb

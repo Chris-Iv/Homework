@@ -1,5 +1,0 @@
-c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\11.RandomNumbersInGivenRange\bin\Debug\11.RandomNumbersInGivenRange.exe.config
-c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\11.RandomNumbersInGivenRange\bin\Debug\11.RandomNumbersInGivenRange.exe
-c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\11.RandomNumbersInGivenRange\bin\Debug\11.RandomNumbersInGivenRange.pdb
-c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\11.RandomNumbersInGivenRange\obj\Debug\11.RandomNumbersInGivenRange.exe
-c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\11.RandomNumbersInGivenRange\obj\Debug\11.RandomNumbersInGivenRange.pdb

@@ -1,6 +1,0 @@
-c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\15.HexademicalToDecimalNumber\bin\Debug\15.HexademicalToDecimalNumber.exe.config
-c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\15.HexademicalToDecimalNumber\obj\Debug\15.HexademicalToDecimalNumber.csprojResolveAssemblyReference.cache
-c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\15.HexademicalToDecimalNumber\bin\Debug\15.HexademicalToDecimalNumber.exe
-c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\15.HexademicalToDecimalNumber\bin\Debug\15.HexademicalToDecimalNumber.pdb
-c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\15.HexademicalToDecimalNumber\obj\Debug\15.HexademicalToDecimalNumber.exe
-c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\15.HexademicalToDecimalNumber\obj\Debug\15.HexademicalToDecimalNumber.pdb

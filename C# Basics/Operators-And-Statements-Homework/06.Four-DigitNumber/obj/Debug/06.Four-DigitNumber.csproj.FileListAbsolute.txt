@@ -1,6 +1,0 @@
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\06.Four-DigitNumber\bin\Debug\06.Four-DigitNumber.exe.config
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\06.Four-DigitNumber\bin\Debug\06.Four-DigitNumber.exe
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\06.Four-DigitNumber\bin\Debug\06.Four-DigitNumber.pdb
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\06.Four-DigitNumber\obj\Debug\06.Four-DigitNumber.csprojResolveAssemblyReference.cache
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\06.Four-DigitNumber\obj\Debug\06.Four-DigitNumber.exe
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\06.Four-DigitNumber\obj\Debug\06.Four-DigitNumber.pdb

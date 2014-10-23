@@ -1,6 +1,0 @@
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\14.ModifyABitAtGivenPosition\bin\Debug\14.ModifyABitAtGivenPosition.exe.config
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\14.ModifyABitAtGivenPosition\bin\Debug\14.ModifyABitAtGivenPosition.exe
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\14.ModifyABitAtGivenPosition\bin\Debug\14.ModifyABitAtGivenPosition.pdb
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\14.ModifyABitAtGivenPosition\obj\Debug\14.ModifyABitAtGivenPosition.csprojResolveAssemblyReference.cache
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\14.ModifyABitAtGivenPosition\obj\Debug\14.ModifyABitAtGivenPosition.exe
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\14.ModifyABitAtGivenPosition\obj\Debug\14.ModifyABitAtGivenPosition.pdb

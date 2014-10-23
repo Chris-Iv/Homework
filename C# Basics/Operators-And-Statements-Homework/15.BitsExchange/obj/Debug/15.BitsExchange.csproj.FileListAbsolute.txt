@@ -1,5 +1,0 @@
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\15.BitsExchange\bin\Debug\15.BitsExchange.exe.config
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\15.BitsExchange\bin\Debug\15.BitsExchange.exe
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\15.BitsExchange\bin\Debug\15.BitsExchange.pdb
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\15.BitsExchange\obj\Debug\15.BitsExchange.exe
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\15.BitsExchange\obj\Debug\15.BitsExchange.pdb

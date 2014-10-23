@@ -1,6 +1,0 @@
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe.config
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.pdb
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.exe
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.pdb
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\06.Calculate2\bin\Debug\06.Calculate2.exe.config
-c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\06.Calculate2\bin\Debug\06.Calculate2.exe
-c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\06.Calculate2\bin\Debug\06.Calculate2.pdb
-c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\06.Calculate2\obj\Debug\06.Calculate2.exe
-c:\users\hores\documents\visual studio 2012\Projects\Loops-Homework\06.Calculate2\obj\Debug\06.Calculate2.pdb

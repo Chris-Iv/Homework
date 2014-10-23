@@ -1,6 +1,0 @@
-c:\users\hores\documents\visual studio 2012\Projects\Functional-Programming-Homework\02.CustomLINQExtensionMethods\bin\Debug\02.CustomLINQExtensionMethods.exe.config
-c:\users\hores\documents\visual studio 2012\Projects\Functional-Programming-Homework\02.CustomLINQExtensionMethods\obj\Debug\02.CustomLINQExtensionMethods.csprojResolveAssemblyReference.cache
-c:\users\hores\documents\visual studio 2012\Projects\Functional-Programming-Homework\02.CustomLINQExtensionMethods\bin\Debug\02.CustomLINQExtensionMethods.exe
-c:\users\hores\documents\visual studio 2012\Projects\Functional-Programming-Homework\02.CustomLINQExtensionMethods\bin\Debug\02.CustomLINQExtensionMethods.pdb
-c:\users\hores\documents\visual studio 2012\Projects\Functional-Programming-Homework\02.CustomLINQExtensionMethods\obj\Debug\02.CustomLINQExtensionMethods.exe
-c:\users\hores\documents\visual studio 2012\Projects\Functional-Programming-Homework\02.CustomLINQExtensionMethods\obj\Debug\02.CustomLINQExtensionMethods.pdb

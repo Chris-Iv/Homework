@@ -1,5 +1,0 @@
-c:\users\hores\documents\visual studio 2012\Projects\Operators-And-Statements-Homework\04.Rectangles\bin\Debug\04.Rectangles.exe.config
-c:\users\hores\documents\visual studio 2012\Projects\Operators-And-Statements-Homework\04.Rectangles\bin\Debug\04.Rectangles.exe
-c:\users\hores\documents\visual studio 2012\Projects\Operators-And-Statements-Homework\04.Rectangles\bin\Debug\04.Rectangles.pdb
-c:\users\hores\documents\visual studio 2012\Projects\Operators-And-Statements-Homework\04.Rectangles\obj\Debug\04.Rectangles.exe
-c:\users\hores\documents\visual studio 2012\Projects\Operators-And-Statements-Homework\04.Rectangles\obj\Debug\04.Rectangles.pdb

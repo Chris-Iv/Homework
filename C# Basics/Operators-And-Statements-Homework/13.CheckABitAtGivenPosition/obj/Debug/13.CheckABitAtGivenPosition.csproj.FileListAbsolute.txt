@@ -1,5 +1,0 @@
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.exe.config
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.exe
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.pdb
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.exe
-C:\Users\Hores\Documents\Visual Studio 2012\Projects\Operators-And-Statements-Homework\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.pdb

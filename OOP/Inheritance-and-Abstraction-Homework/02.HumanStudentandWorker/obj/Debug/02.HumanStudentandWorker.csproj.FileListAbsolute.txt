@@ -1,6 +1,0 @@
-c:\users\hores\documents\visual studio 2012\Projects\Inheritance-and-Abstraction-Homework\02.HumanStudentandWorker\bin\Debug\02.HumanStudentandWorker.exe.config
-c:\users\hores\documents\visual studio 2012\Projects\Inheritance-and-Abstraction-Homework\02.HumanStudentandWorker\bin\Debug\02.HumanStudentandWorker.exe
-c:\users\hores\documents\visual studio 2012\Projects\Inheritance-and-Abstraction-Homework\02.HumanStudentandWorker\bin\Debug\02.HumanStudentandWorker.pdb
-c:\users\hores\documents\visual studio 2012\Projects\Inheritance-and-Abstraction-Homework\02.HumanStudentandWorker\obj\Debug\02.HumanStudentandWorker.csprojResolveAssemblyReference.cache
-c:\users\hores\documents\visual studio 2012\Projects\Inheritance-and-Abstraction-Homework\02.HumanStudentandWorker\obj\Debug\02.HumanStudentandWorker.exe
-c:\users\hores\documents\visual studio 2012\Projects\Inheritance-and-Abstraction-Homework\02.HumanStudentandWorker\obj\Debug\02.HumanStudentandWorker.pdb

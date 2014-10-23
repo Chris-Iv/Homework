@@ -1,6 +1,0 @@
-c:\users\hores\documents\visual studio 2012\Projects\Operators-And-Statements-Homework\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe.config
-c:\users\hores\documents\visual studio 2012\Projects\Operators-And-Statements-Homework\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe
-c:\users\hores\documents\visual studio 2012\Projects\Operators-And-Statements-Homework\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.pdb
-c:\users\hores\documents\visual studio 2012\Projects\Operators-And-Statements-Homework\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.csprojResolveAssemblyReference.cache
-c:\users\hores\documents\visual studio 2012\Projects\Operators-And-Statements-Homework\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.exe
-c:\users\hores\documents\visual studio 2012\Projects\Operators-And-Statements-Homework\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.pdb
