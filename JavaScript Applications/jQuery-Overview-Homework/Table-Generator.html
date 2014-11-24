@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Table Generator</title>
+    <script src="jquery-2.1.1.min.js"></script>
+    <script src="tableGenerator.js"></script>
+    <style>
+        #cars {
+            border: 1px solid;
+            width: 100%;
+        }
+        #cars tr {
+            border: 1px solid black;
+            width: 20px;
+        }
+        #cars td {
+            width: 500px;
+            border: 1px solid black;
+            text-align: center;
+        }
+        .main {
+            background: blue;
+            color: orange;
+            font-size: 20px;
+        }
+        input {
+            text-align: center;
+            margin: 0 auto;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <input type="button" id="button" value="Create Table Cars" />
+    <h1 style="text-align: center">JSON TABLE</h1>
+    <table id="cars">
+        <td class="main">Manufactures</td>
+        <td class="main">Model</td>
+        <td class="main">Year</td>
+        <td class="main">Price</td>
+        <td class="main">Class</td>
+    </table>
+</body>
+</html>
