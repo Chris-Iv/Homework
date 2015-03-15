@@ -1,0 +1,18 @@
+CREATE DATABASE ATM
+GO
+
+USE ATM
+GO
+
+CREATE TABLE CardAccounts(
+	Id int PRIMARY KEY IDENTITY,
+	CardNumber nvarchar(10) UNIQUE NOT NULL,
+	CardPIN nvarchar(4) NOT NULL,
+	CardCash money NOT NULL
+)
+GO
+
+INSERT INTO CardAccounts(CardNumber, CardPIN, CardCash)
+VALUES ('9561336453', '1234', 50000),
+	('9562341178', '5678', 5000)
+GO
