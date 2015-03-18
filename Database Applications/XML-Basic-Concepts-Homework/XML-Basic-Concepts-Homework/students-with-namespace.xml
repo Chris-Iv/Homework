@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+<students:students xmlns:students="http://www.students.org/students"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="http://www.students.org/students students.xsd">
+  <students:student>
+    <students:name>Pesho Peshev</students:name>
+    <students:gender>Male</students:gender>
+    <students:birth-date>06.01.1990</students:birth-date>
+    <students:phone-number>0891715253</students:phone-number>
+    <students:email>pesho@gmail.com</students:email>
+    <students:university>Software University</students:university>
+    <students:speciality>Programming</students:speciality>
+    <students:faculty-number>001</students:faculty-number>
+    <students:exams>
+      <students:exam-name>C# Basics</students:exam-name>
+      <students:date-taken>25.01.2015</students:date-taken>
+      <students:grade>5.10</students:grade>
+    </students:exams>
+  </students:student>
+  <students:student>
+    <students:name>Gosho Goshev</students:name>
+    <students:gender>Male</students:gender>
+    <students:birth-date>15.04.1980</students:birth-date>
+    <students:phone-number>0885534899</students:phone-number>
+    <students:email>gosho@gmail.com</students:email>
+    <students:university>Software University</students:university>
+    <students:speciality>Programming</students:speciality>
+    <students:faculty-number>003</students:faculty-number>
+    <students:exams>
+      <students:exam-name>PHP Basics</students:exam-name>
+      <students:date-taken>13.19.2014</students:date-taken>
+      <students:grade>5.35</students:grade>
+    </students:exams>
+  </students:student>
+</students:students>

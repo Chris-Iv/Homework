@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:students="http://www.students.org/students" 
+           attributeFormDefault="unqualified" 
+           elementFormDefault="qualified" 
+           targetNamespace="http://www.students.org/students" 
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="students">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="student">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="name" type="xs:string" />
+              <xs:element name="gender" type="xs:string" />
+              <xs:element name="birth-date" type="xs:string" />
+              <xs:element name="phone-number" type="xs:string" minOccurs="0" />
+              <xs:element name="email" type="xs:string" />
+              <xs:element name="university" type="xs:string" />
+              <xs:element name="speciality" type="xs:string" />
+              <xs:element name="faculty-number" type="xs:positiveInteger" minOccurs="0" />
+              <xs:element name="exams">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="exam-name" type="xs:string" />
+                    <xs:element name="date-taken" type="xs:string" />
+                    <xs:element name="grade" type="xs:decimal" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="endorsements" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="author" />
+                    <xs:element name="author-email" />
+                    <xs:element name="endorsement-date" />
+                    <xs:element name="endorsement-text" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
