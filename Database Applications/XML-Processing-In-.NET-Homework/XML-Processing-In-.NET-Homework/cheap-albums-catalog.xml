@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation=".../.../ catalog.xsd">
+  <album>
+    <name>The King of Limbs</name>
+    <artist>Radiohead</artist>
+    <year>2011</year>
+    <producer>Nigel Godrich</producer>
+    <price>15.00</price>
+    <songs>
+      <song>
+        <title>Bloom</title>
+        <duration>5:15</duration>
+      </song>
+      <song>
+        <title>Morning Mr Magpie</title>
+        <duration>4:41</duration>
+      </song>
+      <song>
+        <title>Little by Little</title>
+        <duration>4:27</duration>
+      </song>
+      <song>
+        <title>Feral</title>
+        <duration>3:13</duration>
+      </song>
+      <song>
+        <title>Lotus Flower</title>
+        <duration>5:01</duration>
+      </song>
+      <song>
+        <title>Codex</title>
+        <duration>4:47</duration>
+      </song>
+      <song>
+        <title>Give Up the Ghost</title>
+        <duration>4:50</duration>
+      </song>
+      <song>
+        <title>Separator</title>
+        <duration>5:20</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>OK Computer</name>
+    <artist>Radiohead</artist>
+    <year>1997</year>
+    <producer>Capitol Records</producer>
+    <price>20.00</price>
+    <songs>
+      <song>
+        <title>Airbag</title>
+        <duration>4:44</duration>
+      </song>
+      <song>
+        <title>Paranoid Android</title>
+        <duration>6:23</duration>
+      </song>
+      <song>
+        <title>Subterranean Homesick Alien</title>
+        <duration>4:27</duration>
+      </song>
+      <song>
+        <title>Exit Music (For a Film)</title>
+        <duration>4:24</duration>
+      </song>
+      <song>
+        <title>Let Down</title>
+        <duration>4:59</duration>
+      </song>
+      <song>
+        <title>Karma Police</title>
+        <duration>4:21</duration>
+      </song>
+      <song>
+        <title>Fitter Happier</title>
+        <duration>1:57</duration>
+      </song>
+      <song>
+        <title>Electioneering</title>
+        <duration>3:50</duration>
+      </song>
+      <song>
+        <title>Climbing Up the Walls</title>
+        <duration>4:45</duration>
+      </song>
+      <song>
+        <title>No Surprises</title>
+        <duration>3:48</duration>
+      </song>
+      <song>
+        <title>Lucky</title>
+        <duration>4:19</duration>
+      </song>
+      <song>
+        <title>The Tourist</title>
+        <duration>5:24</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Dummy</name>
+    <artist>Portishead</artist>
+    <year>1994</year>
+    <producer>Go! Discs</producer>
+    <price>10.00</price>
+    <songs>
+      <song>
+        <title>Mysterons</title>
+        <duration>5:02</duration>
+      </song>
+      <song>
+        <title>Sour Times</title>
+        <duration>4:11</duration>
+      </song>
+      <song>
+        <title>Strangers</title>
+        <duration>3:55</duration>
+      </song>
+      <song>
+        <title>It Could Be Sweet</title>
+        <duration>4:16</duration>
+      </song>
+      <song>
+        <title>Wandering Star</title>
+        <duration>4:51</duration>
+      </song>
+      <song>
+        <title>It's a Fire</title>
+        <duration>3:49</duration>
+      </song>
+      <song>
+        <title>Numb</title>
+        <duration>3:54</duration>
+      </song>
+      <song>
+        <title>Roads</title>
+        <duration>5:02</duration>
+      </song>
+      <song>
+        <title>Pedestal</title>
+        <duration>3:39</duration>
+      </song>
+      <song>
+        <title>Biscuit</title>
+        <duration>5:01</duration>
+      </song>
+      <song>
+        <title>Glory Box</title>
+        <duration>5:06</duration>
+      </song>
+    </songs>
+  </album>
+</catalog>
