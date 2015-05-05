@@ -1,0 +1,169 @@
+body {
+	background-color: #F7F7F7;\
+}
+
+header h1 {
+	font-family: 'Arial';
+	font-weight: normal;
+	margin-left: 257px;
+}
+
+aside {
+	background-color: #FFFFFF;
+	border: 1px solid #CCCCCC;
+	width: 250px;
+	float: right;
+	font-family: 'Arial';
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-right: 257px;
+	margin-top: 32px;
+}
+
+aside h2 {
+	font-weight: normal;
+}
+
+aside p {
+	color: #666666;
+}
+
+h4 {
+	font-family: 'Helvetica';
+	background-color: #666666;
+	color: #FFFFFF;
+	padding: 5px;
+	border: 1px solid #333333;
+	margin-left: 257px;
+	margin-top: 0;
+	margin-bottom: 0;
+	position: relative;
+	top: 15px;
+	left: 13px;
+}
+
+.login {
+	width: 100px;
+}
+
+.personal {
+	width: 125px;
+}
+
+fieldset {
+	width: 500px;
+	font-family: 'Helvetica';
+	border: 1px dashed #CCCCCC;
+	padding-top: 30px;
+	margin-left: 257px;
+}
+
+fieldset div {
+	display: inline-block;
+}
+
+fieldset label {
+	background-color: #CCCCCC;
+	color: #666666;
+	font-weight: bold;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+	width: 150px;
+	display: inline-block;
+}
+
+fieldset .input {
+	background-color: #E6E6E6;
+	width: 340px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	margin-bottom: 5px;
+}
+
+fieldset input[type="text"], input[type="password"] {
+	width: 300px;
+	height: 25px;
+	border-top:  2px solid #9A9A9A;
+	padding-left: 20px;
+}
+
+fieldset input[type="text"]:hover {
+	background-color: #F7F5D2;
+	cursor: pointer;
+}
+
+fieldset input[type="text"]:focus {
+	background-color: #F7F5D2;
+}
+
+fieldset input[type="password"]:hover {
+	background-color: #F7F5D2;
+	cursor: pointer;
+}
+
+fieldset input[type="password"]:focus {
+	background-color: #F7F5D2;
+}
+
+fieldset .submit {
+	width: 345px;
+	height: 40px;
+	background-color: #FFFFFF;
+	border: 1px solid #CCCCCC;
+	margin-left: 158px;
+}
+
+fieldset input[type="submit"] {
+	background-color: #E3E3DB;
+	border: none;
+	color: #989070;
+	font-weight: bold;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-bottom: 2px solid #D8D8D0;
+	border-right: 2px solid #D8D8D0;
+	position: relative;
+	left: 235px;
+	top: 5px;
+}
+
+fieldset input[type="submit"]:hover {
+	background-color: #CCCCCC;
+	color: #555555;
+	cursor: pointer;
+}
+
+fieldset #user {
+	background-image: url('username-icon.png');
+	background-repeat: no-repeat;
+	background-position: left center;
+}
+
+fieldset #pass {
+	background-image: url('password-icon.png');
+	background-repeat: no-repeat;
+	background-position: left center;
+}
+
+fieldset .field {
+	background-image: url('field-icon.png');
+	background-repeat: no-repeat;
+	background-position: left center;
+}
+
+fieldset input[placeholder] {
+	font-weight: bold;
+	font-size: 16px;
+}
+
+hr {
+	border-top: 1px dashed #CCCCCC;
+	width: 530px;
+	position: relative;
+	left: 122px;
+	top: 8px;
+}

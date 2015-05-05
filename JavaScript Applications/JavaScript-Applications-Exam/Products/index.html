@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style/style.css"/>
+    <title>Products</title>
+    <script src="libs/jquery-2.1.1.min.js"></script>
+    <script src="libs/jquery.noty.packaged.min.js"></script>
+    <script src="scripts/app.js"></script>
+    <script src="scripts/ajaxRequester.js"></script>
+    <script src="scripts/userSession.js"></script>
+</head>
+<body>
+<div id="wrapper">
+    <header>
+        <img class="img-header" src="imgs/trash.png" width="50px"/>
+        <h1 class="site-header">Products</h1>
+        <nav id="menu">
+            <ul id="guestMenu">
+                <li class="nav-button"><a href="#" id="btnShowGuestHomeView">Home</a></li>
+                <li class="nav-button"><a href="#" id="btnShowLoginView">Login</a></li>
+                <li class="nav-button"><a href="#" id="btnShowRegisterView">Register</a></li>
+            </ul>
+            <ul id="userMenu">
+                <li class="nav-button"><a href="#" id="btnShowUserHomeView">Home</a></li>
+                <li class="nav-button"><a href="#" id="btnShowProductsView">Products</a></li>
+                <li class="nav-button"><a href="#" id="btnShowAddProductView">Add Product</a></li>
+                <li class="nav-button"><a href="#" id="btnLogout">Logout</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div id="main">
+
+		<!-- Registration form -->
+        <section id="registerView">
+            <div class="register-form">
+                <header class="main-header">Register</header>
+                <div class="data">
+                    <label for="registerUsername">Username:</label>
+                    <input type="text" id="registerUsername" placeholder="Username..."/>
+                    <label for="registerPassword">Password:</label>
+                    <input type="password" id="registerPassword" placeholder="Password..."/>
+                    <label for="confirm-password">Confirm password:</label>
+                    <input type="password" id="confirm-password" placeholder="Password again..."/>
+                </div>
+                <div class="panel">
+                    <button class="button" id="register-button">Register</button>
+                    <span>or</span>
+                    <a href="#" id="lnkShowLoginView">Login</a>
+                </div>
+            </div>
+        </section>
+
+        <br />
+		
+		<!-- Login form -->
+        <section id="loginView">
+            <div class="login-form">
+                <header class="main-header">Login</header>
+                <div class="data">
+                    <label for="loginUsername">Username:</label>
+                    <input type="text" id="loginUsername" placeholder="Username..."/>
+                    <label for="loginPassword">Password:</label>
+                    <input type="password" id="loginPassword" placeholder="Password..."/>
+                </div>
+                <div class="panel">
+                    <button id="login-button" class="button">Login</button>
+                    <span>or</span>
+                    <a href="#" id="lnkShowRegisterView">Register</a>
+                </div>
+            </div>
+        </section>
+
+        <br />
+		
+		<!-- Welcome guest -->
+        <section id="guestHomeView">
+            <div class="welcome-message">
+                <header class="main-header">Welcome to Products!</header>
+                <h3 class="centered">Please <a href="#" id="linkShowLoginView">login</a> to access the site.</h3>
+            </div>
+        </section>
+        <br />
+		
+		<!-- Welcome user -->
+        <section id="userHomeView">
+            <div class="welcome-message">
+                <header class="main-header">Welcome, <span id="username"></span> </header>
+            </div>
+        </section>
+
+        <br />
+
+		<!-- Add product form -->
+        <section id="addProductView">
+            <div class="add-product-form">
+                <header class="main-header">Add new product</header>
+                <div class="data">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" placeholder="Item name..."/>
+                    <label for="category">Category:</label>
+                    <input type="text" id="category" placeholder="Category..."/>
+                    <label for="price">Price:</label>
+                    <input type="text" id="price" placeholder="0.00"/>
+                </div>
+                <div class="panel">
+                    <button id="add-product-button" class="button">Add</button>
+                    <a href="#">
+                        <button class="button">Cancel</button>
+                    </a>
+                </div>
+            </div>
+        </section>
+        <br />
+		
+		<!-- Delete product form -->
+        <section id="deleteProductView">
+            <div class="delete-product-form">
+                <header class="main-header">Delete product</header>
+                <div class="data">
+                    <label>Name:</label>
+                    <input type="text" id="deleteName" disabled/>
+                    <label>Category:</label>
+                    <input type="text" id="deleteCategory" disabled/>
+                    <label>Price:</label>
+                    <input type="text" id="deletePrice" disabled>
+                </div>
+                <div class="panel">
+                    <button id="delete-product-button" class="button">Delete</button>
+                    <a href="#">
+                        <button class="button">Cancel</button>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <br />
+		
+		<!-- Edit product form -->
+        <section id="editProductView">
+            <div class="edit-product-form">
+                <header class="main-header">Edit product</header>
+                <div class="data">
+                    <label for="item-name">Name:</label>
+                    <input type="text" id="item-name" placeholder="Name..."/>
+                    <label for="category">Category:</label>
+                    <input type="text" id="editProductCategory" placeholder="Category..."/>
+                    <label for="price">Price:</label>
+                    <input type="text" id="editProductPrice" placeholder="0.00"/>
+                </div>
+                <div class="panel">
+                    <button id="edit-product-button" class="button">Edit</button>
+                    <a href="#">
+                        <button class="button">Cancel</button>
+                    </a>
+                </div>
+            </div>
+        </section>
+        <br />
+
+		<!-- Products list -->
+        <section id="productsView">
+            <aside class="filters">
+                <h3>Filter</h3>
+                <input id="search-bar" class="search-bar" type="text" placeholder="Keyword.."/>
+                <label>Price:</label>
+                <input id="min-price" class="input-num" type="number" value="0" min="0"/>
+                <span>-</span>
+                <input id="max-price" class="input-num" type="number" value="10000"/>
+                <label>Category:</label>
+                <select id="productCategory" class="category">
+                    <option value="All">All</option>
+                    <option value="Animals">Animals</option>
+                    <option value="Food">Food</option>
+                    <option value="Other">Other</option>
+                </select>
+                <button id="filter" class="filter-button">Filter</button>
+                <p class="clear-filters" id="clear-filters">Clear filters</p>
+            </aside>
+            <div class="products">
+                <ul id="products">
+                </ul>
+            </div>
+        </section>
+
+    </div>
+</div>
+
+
+</body>
+</html>
