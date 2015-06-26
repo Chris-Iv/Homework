@@ -1,0 +1,92 @@
+body {
+    background-color: #EBEBED;
+}
+
+body>header {
+    background-color: #173669;
+    padding: 5px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -8px;
+    padding-bottom: 22px;
+}
+
+body>header ul>li>a {
+    color: #E7B947;
+    text-decoration: none;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+body>header ul, body>header ul>li {
+    vertical-align: middle;
+}
+
+body>header>a>img, body>header ul, body>header ul>li {
+    max-width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+aside {
+    float: right;
+    border: inset;
+    border-color: #173669;
+    padding: 8px;
+    margin-top: -70px;
+}
+
+aside a {
+    text-decoration: none;
+    color: #173669;
+}
+
+body>form input {
+    margin: 5px;
+}
+
+body>table tr, body>table td {
+    padding: 5px;
+}
+
+body>footer {
+    background-color: #173669;
+    padding: 10px;
+    margin-top: 5px;
+    margin-left: -8px;
+    margin-right: -8px;
+    color: #E7B947;
+    text-align: center;
+}
+
+li.info {
+    background: #7f7;
+}
+
+li.error {
+    background: #f77;
+}
+
+#button {
+    text-decoration: none;
+    color: #173669;
+}
+
+#logged-in-info {
+    float: right;
+    color: #E7B947;
+}
+
+#logged-in-info form {
+    display: inline-block;
+}
+
+#login-or-register {
+    display: inline-block;
+    float: right;
+}
+
+#login-or-register>a {
+    color: #E7B947;
+    text-decoration: none;
+}
