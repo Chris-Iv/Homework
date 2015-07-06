@@ -1,0 +1,15 @@
+<img class="img-header" src="imgs/trash.png"/>
+<h1 class="site-header">SoftUni Properties</h1>
+<nav id="menu">
+    <ul ng-if="authService.isAnonymous()">
+        <li class="nav-button"><a href="#/">Home</a></li>
+        <li class="nav-button"><a href="#/login">Login</a></li>
+        <li class="nav-button"><a href="#/register">Register</a></li>
+    </ul>
+    <ul ng-if="authService.isLoggedIn()">
+        <li class="nav-button"><a href="#/">Home</a></li>
+        <li class="nav-button"><a href="#/estates">Estates</a></li>
+        <li class="nav-button"><a href="#/estates/add">Add Estate</a></li>
+        <li class="nav-button" ng-click="logout()"><a href="#/">Logout</a></li>
+    </ul>
+</nav>

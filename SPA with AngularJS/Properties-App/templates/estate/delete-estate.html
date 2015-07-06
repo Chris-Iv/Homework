@@ -1,0 +1,19 @@
+<section>
+    <div class="delete-estate-form">
+        <header class="main-header">Delete estate</header>
+        <div class="data">
+            <label>Name:</label>
+            <input type="text" ng-model="estateData.name" disabled/>
+            <label>Category:</label>
+            <input type="text" ng-model="estateData.category" disabled/>
+            <label>Price:</label>
+            <input type="text" ng-model="estateData.price" disabled>
+        </div>
+        <div class="panel">
+            <button id="delete-estate-button" ng-click="deleteEstate(estateData)" class="button">Delete</button>
+            <a href="#/estates">
+                <button class="button">Cancel</button>
+            </a>
+        </div>
+    </div>
+</section>

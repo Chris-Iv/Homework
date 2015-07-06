@@ -1,0 +1,117 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>СофтУни | Наръчник за оцеляване</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="styles/normalize.css" rel="stylesheet" />
+    <link href="styles/bootstrap.min.css" rel="stylesheet" />
+    <link href="styles/bootstrap-theme.min.css" rel="stylesheet" />
+    <link href="styles/carousel_styles.css" rel="stylesheet" />
+    <link href="styles/styles.css" rel="stylesheet" />
+    <script src="scripts/jquery-1.9.0.min.js"></script>
+    <script src="scripts/bootstrap.min.js"></script>
+</head>
+<body>
+    <header id="page-header">
+        <nav class="navbar" role="navigation">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="index.html"><img src="#" alt="Alternate Text" /></a>
+            </div>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="https://softuni.bg/news" target="_blank">Новини</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Полезна информация<span class="caret"></span></a>
+                    <ul class="dropdown-menu" role="menu">
+						<li><a href="content/Books.html">Книги</a></li>
+						<li><a href="content/Courses.html">Курсове</a></li>
+                        <li><a href="content/Literature%20and%20Links%20C%23.html">C# Литература</a></li>
+						<li><a href="content/Literature%20and%20Links%20Java.html">Java Литература</a></li>
+						<li><a href="content/Literature and Links HTML CSS.html">HTML & CSS Литература</a></li>
+						<li><a href="content/Movies.html">Фимлми</a></li>
+						<li><a href="content/Food.html">Храна</a></li>
+						<li><a href="content/Sport.html">Спорт</a></li>
+                    </ul>
+                </li>
+                <li><a href="https://softuni.bg/contacts" target="_blank">Контакти</a></li>
+                <li>
+                    <form class="navbar-form" role="search" action="/" method="post">
+                        <div class="form-group"><input class="searchBox" type="text" /></div>
+                        <button class="searchButton" type="submit"></button>
+                    </form>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <section id="mainCarousel">
+        <div id="carousel" class="carousel slide" data-interval="3000" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#carousel" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel" data-slide-to="1"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div id="first" class="active item">
+                    <header><h3>Достъпно и качествено софтуерно образование</h3></header>
+                    <div class="carousel-caption">
+                        <p>Нашата мисия е да направим хората, които обучаваме, истински професионалисти в софтуерната индустрия и да им съдействаме в намирането на работа.</p>
+                    </div>
+                </div>
+                <div id="second" class="item">
+                    <header><h3>Качествен, съвременен образователен център, ориентиран към практиката.</h3></header>
+                    <div class="carousel-caption">
+                        <p>Развитие на младите таланти в един от водещите сектори в България - информационните технологии. Алтернатива на държавните университети.</p>
+                    </div>
+                </div>
+            </div>
+            <a class="carousel-control left" href="#carousel" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left"></span>
+            </a>
+            <a class="carousel-control right" href="#carousel" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right"></span>
+            </a>
+        </div>
+    </section>
+    <main class="row">
+        <div id="content">
+            <div id="container-news">
+                <section class="col-lg-4">
+                    <header><h2>За Университета</h2></header>
+                    <div class="content">
+                        <img src="./images/pc-desk.png" alt="pc-desk" style="display: block; margin-bottom: 20px" />
+                        <p>За нас, както и за цялата софтуерна индустрия, е най-важен практическият опит. Нашата мисия е да направим хората, които обучаваме, истински професионалисти в софтуерната индустрия и да им съдействаме в намирането на работа.</p>
+                        <p>Учебният план, по който се провеждат занятията в Софтуерния университет, се състои от няколко нива – едно подготвително ниво за приемния изпит (2 месеца) и 6 нива обучение по програмиране, технологии и разработка на софтуер (всяко по 4 месеца). Предоставя се възможност за получаване на университетска диплома за висше образование от един от нашите университети-партньори след допълнително обучение при тях с продължителност 1 или 2 години.</p>
+                        <form target="_blank">
+                            <button formaction="http://softuni.bg/apply" class="btn btn-primary btn-md">Кандидатствай</button>
+                            <button formaction="http://softuni.bg/plans" class="btn btn-warning btn-md">Планове</button>
+                        </form>
+                    </div>
+                </section>
+                <section class="col-lg-3">
+                    <header><h2>Fast Track Курсове</h2></header>
+                    <div class="content">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam massa enim, consectetur sit amet enim at, ornare interdum lacus. Fusce molestie risus vitae erat facilisis pretium. Suspendisse non risus velit. Fusce et neque vitae sapien dignissim ullamcorper. Curabitur ac nibh nec lacus interdum blandit. Fusce euismod sed ipsum vel dictum. Duis mi neque, venenatis scelerisque metus id, suscipit pharetra libero. Nulla tincidunt arcu purus. Duis in ligula volutpat, pharetra leo quis, lacinia purus. Phasellus vitae urna a quam hendrerit euismod imperdiet ac arcu. In in orci dictum, laoreet lorem et, aliquam massa. Curabitur sagittis pulvinar turpis quis auctor. Morbi felis elit, tincidunt quis augue ut, eleifend adipiscing dui.
+                    </div>
+                </section>
+                <section class="col-lg-3">
+                    <header><h2>Новини</h2></header>
+                    <div class="content">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam massa enim, consectetur sit amet enim at, ornare interdum lacus. Fusce molestie risus vitae erat facilisis pretium. Suspendisse non risus velit. Fusce et neque vitae sapien dignissim ullamcorper. Curabitur ac nibh nec lacus interdum blandit. Fusce euismod sed ipsum vel dictum. Duis mi neque, venenatis scelerisque metus id, suscipit pharetra libero. Nulla tincidunt arcu purus. Duis in ligula volutpat, pharetra leo quis, lacinia purus. Phasellus vitae urna a quam hendrerit euismod imperdiet ac arcu. In in orci dictum, laoreet lorem et, aliquam massa. Curabitur sagittis pulvinar turpis quis auctor. Morbi felis elit, tincidunt quis augue ut, eleifend adipiscing dui.
+                    </div>
+                </section>
+            </div>
+        </div>
+    </main>
+    <div class="row" id="footer-container">
+        <footer id="page-footer"><div>
+			<h1>The Software University Survival Guide</h1>
+			<h3>Made by Team Nozdormu</h3>
+			<h4>Useful Links:</h4>
+			<a href="https://softuni.bg" target="_blank">SoftUni</a>
+			<br/>
+			<a href="http://www.nakov.com/" target="_blank">Nakov's blog</a>
+			<br/>
+			<a href="http://www.introprogramming.info/" target="_blank">C# & Java books</a>
+		</div>
+        </footer>
+    </div>
+</body>
+</html>
