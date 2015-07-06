@@ -1,3 +1,3 @@
-Homework
+SoftUni-Homework
 ========
-This is where I upload all my Software University Homework.
+This is where I keep all my Software University Homework.
