@@ -1,0 +1,12 @@
+﻿@model SportSystem.Web.Models.MatchesTeamsPlayersCommentsViewModel
+
+@{
+    ViewBag.Title = "All Matches";
+}
+
+<div class="row">
+    @if (Model.Matches.Any())
+    {
+        @Html.DisplayFor(x => x.Matches)
+    }
+</div>

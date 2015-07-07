@@ -1,0 +1,41 @@
+﻿@model SportSystem.Web.Models.MatchesTeamsPlayersCommentsViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div class="row">
+    <h1>Match:</h1>
+    @if (Model.Matches.Any())
+    {
+        <h2>Home Team: @Model.Matches.FirstOrDefault().HomeTeam (Bets: $)</h2>
+        <h2>Away Team: @Model.Matches.FirstOrDefault().AwayTeam (Bets: $)</h2>
+        <p>Date and Time: @Model.Matches.FirstOrDefault().MatchDate</p>
+    }
+</div>
+
+<div class="row">
+    <h1>Comments:</h1>
+    @if (@Model.Comments.Any())
+    {
+        @Html.DisplayFor(x => x.Comments)
+    }
+</div>
+
+<div>
+    <h1>Add Comment:</h1>
+    <label for="comment">Comment: </label>
+    <textarea id="comment" name="comment"></textarea>
+    <input type="submit" value="Comment" class="btn btn-default" />
+</div>
+
+<div class="bets">
+    <h1>Bets:</h1>
+    <label for="home-bet">Home Bet: </label>
+    <input type="number" name="home-bet" id="home-bet"/>
+    <input type="submit" value="Bet" class="btn btn-default" />
+
+    <label for="away-bet">Away Bet: </label>
+    <input type="number" name="away-bet" id="away-bet"/>
+    <input type="submit" value="Bet" class="btn btn-default" />
+</div>

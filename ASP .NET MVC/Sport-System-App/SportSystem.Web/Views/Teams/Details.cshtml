@@ -1,0 +1,26 @@
+﻿@model SportSystem.Web.Models.MatchesTeamsPlayersCommentsViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div class="row">
+    @if (Model.Teams.Any())
+    {
+        <h2>@Model.Teams.FirstOrDefault().Name</h2>
+        <p>Nickname: @Model.Teams.FirstOrDefault().NickName</p>
+        <p>Founded: @Model.Teams.FirstOrDefault().DateFounded</p>
+    }
+</div>
+<div class="row">
+    @if (Model.Players.Any())
+    {
+        @Html.DisplayFor(x => x.Players)
+    }
+</div>
+<div>
+    @if (Model.Teams.Any())
+    {
+        //Votes: @Model.Teams.FirstOrDefault().Votes;
+    }
+</div>
